@@ -1,7 +1,14 @@
 <h1 align="center"> DasX42 / new to programming </h1>
 
+##
 
-
+<div>
+    <p aligt="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,html,css,js" />
+  </a>
+</p>
+</div>
 
 
 
