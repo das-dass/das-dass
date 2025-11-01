@@ -5,15 +5,15 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode" height="70"   />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60"  />
+  <img src="https://skillicons.dev/icons?i=git" height="70"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" />
+  <img src="https://skillicons.dev/icons?i=html" height="70" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60"  />
+  <img src="https://skillicons.dev/icons?i=css" height="70"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60"   />
+  <img src="https://skillicons.dev/icons?i=js" height="70"   />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60"   />
+  <img src="https://skillicons.dev/icons?i=ts" height="70"   />
   <img width="12" />
   <!--
   <img src="https://skillicons.dev/icons?i=ts" height="60"   />
