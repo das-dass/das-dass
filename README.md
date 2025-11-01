@@ -2,9 +2,10 @@
 
 ###
 
-<div align="center>
-    <p>
+<div>
+    <p aligt="center">
   <a href="https://skillicons.dev">
+      <img width="12" />
     <img src="https://skillicons.dev/icons?i=vscode,git,html,css,js" />
   </a>
 </p>
