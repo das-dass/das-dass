@@ -13,9 +13,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="60"   />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60"   />
+  <img src="https://skillicons.dev/icons?i=react" height="60"   />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60"  />
+  <img src="https://skillicons.dev/icons?i=py" height="60"  />
   <img width="12" />
 </div>
 
