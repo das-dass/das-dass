@@ -5,8 +5,7 @@
 <div>
     <p aligt="center">
   <a href="https://skillicons.dev">
-      <img width="12" />
-    <img src="https://skillicons.dev/icons?i=vscode,git,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,html,css,js" height="60" />
   </a>
 </p>
 </div>
