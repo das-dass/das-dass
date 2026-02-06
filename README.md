@@ -1,4 +1,4 @@
-<h1 align="center"> DasX42 / new to programming </h1>
+<h1 align="center"> Das_ダス / new to programming </h1>
 
 ###
 
